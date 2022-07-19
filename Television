@@ -30,15 +30,15 @@ https://master.tucableip.com//pat/tracks-v1a1/mono.m3u8
 https://master.tucableip.com/pat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://red-cctv.com/wp-content/uploads/2018/02/nuev.png"group-title="Bolivia",RED CCTV
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/chunklist_w2063608228.m3u8
-#EXTINF:-1 tvg-logo="https://renuevadigital.com.bo/assets/img/logo.png"Bolivia",RENUEVA TV
+#EXTINF:-1 tvg-logo="https://renuevadigital.com.bo/assets/img/icono.png"Bolivia",RENUEVA TV
 https://my.tiviapp.com/renuevadigital/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ptvbolivia.com/images/ID%20HD_1.png"group-title="Bolivia",PACEÑISIMA TV
 https://cdnhd.iblups.com/hls/W64gzYHlcv.m3u8
-#EXTINF:-1 tvg-logo="https://ceacomtv.com/wp-content/uploads/2021/01/Logo-CEACOM-web.png"group-title="Bolivia",TV CEACOM Oruro
+#EXTINF:-1 tvg-logo="https://ceacomtv.com/wp-content/uploads/2020/12/Logo-CEACOM-01-e1608759749137.png"group-title="Bolivia",TV CEACOM Oruro
 https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/chunklist_w1514044271.m3u8
 #EXTINF:-1, tvg-logo="https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2021/03/logo-tvlatina.png",TVLatina
 https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://spng.subpng.com/20210505/rq/transparent-television-cable-television-logo-tv-show-logo-tv-609264ae9cb475.3121368016202067666419.jpg"group-title="BOLIVIA",TV SHOW ORURO
+#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",TV SHOW ORURO
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 
 
@@ -57,8 +57,12 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/digitaltvimperial.png"group-title="Bolivia",Imperial-TV-Potosi
 https://stmv.panel.grupolimalive.com/imperial/imperial/chunklist_w1771332187.m3u8
-#EXTINF:-1 tvg-logo="https://tvu.umsa.bo/image/layout_set_logo?img_id=4193924&t=1656719297689" group-title="Bolivia",TVU
+#EXTINF:-1 tvg-logo="https://tvu.umsa.bo/image/layout_set_logo?img_id=4193924&t=1656719297689" group-title="Bolivia",TVU UMSA
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvusucre.com/images/Cabeza-logo.png" group-title="Bolivia",TVU Sucre
+https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://deportetotal.com.bo/wp-content/uploads/2018/09/dt-horizontal-logo.png" group-title="Bolivia",DTPlay
+https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 #EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/44.gif"group-title="Bolivia",CANAL VIRGEN DE COPACABANA
 https://5d00db0e0fcd5.streamlock.net/7034/7034/chunklist_w1500290821.m3u8
 #EXTINF:-1 tvg-logo="https://mega.tv/wp-content/uploads/sites/4/2015/03/megatv-opengraph.jpg"group-title="Bolivia",meGaTV
@@ -75,8 +79,8 @@ https://livefocamundo.com:8081/megavisiontv/index.m3u8
 https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w355303119.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUNmWWGZynYn0jtncGfBLJREcTKk3uERx24rmr82L2ur8CkfHT3sUOa73kbdCX9im2Sz6j5nYzdOths4xnit7kh2O3jjC1vOoXivxOQ3Pq_WmWdc1qndT41uncWoY28CSrdZQsTKFV3sJJA5lxbNy9EbrETkhjipnW_UHCq0Ha-QPk8sDKIfuHr8v-Bg/s631/SEO TV FHD.jpg" group-title="Canales Bolivianos",SEO TV HD
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-novelas-bo.png" group-title="Canales Bolivianos",SEO TV NOVELAS
+https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD4rNWFUwoPWSMqRUMpggVib3XLS6czB6JD-b5YUZ2H8FetavIxaM-cahpiNWy4zSm4kL3xharpieuW21z9o2JnLo7HDO_mUH1EaSjWoZ_jTJu2ezz-oW2CZQ5ec6ZfPtaEk5EB3WxaeLoFDur01CgWuAs-hE6dumFc4LPGo7N12o3A-rX-E1ZWGfvRg/s1247/TV OFF HD EL ALTO.jpg" group-title="Canales Bolivianos",TV OFF HD
 https://videohd.sistemareal.com:3290/live/tvoffhdlive.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr4_d4lwUyWi-X8C-wScv_c5EF5mo0i9DaV6OyWeVuTjy3cPGumiu2gXd8F908R-yPES8yXRyX19GQFOyQvGbMPuFnWtF7BpwTrWVxQtqhkVi-XKJWP8bpcEU20HgU_pcwkQb2I2o-w2NumRdsHtPE5hcYGrgRaoWHXh8y21L2XRL0NpEmPyO7Mq8mGg/s1248/CANAL 27 HD BOLIVIA.jpg" group-title="Canales Bolivianos",CANAL 27 TRINIDAD HD
@@ -86,8 +90,38 @@ https://servilive.com:3342/live/boplustvlive.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFeWCm5icgqrS-gxm8USsDKabH7gC4XaleV4u8aSNtzR9KJ0ktpN419gzJDVqrP-_C057OTyHJ6hG2uUh7ZsTzb-6OHTthrG4HqQd-9BsOKMVoGCp50p3D05-Wi9_wJRMtj4pM_vbKDLN5hdwtz3mFVu6pcXpZkn0w1ZrLxkkIVG8lod2Rvr6oGrq8vg/s3565/MARKVISION HD.jpg" group-title="Canales Bolivianos",MARKVISION TV HD
 https://stmv.panel.grupolimalive.com/marvision/marvision/chunklist_w543475711.m3u8
 
+#EXTINF:-1 tvg-logo="http://elgarage.com/wp-content/uploads/2021/03/logogaragetv_blanco.png"group-title="",El Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1311346406_b1296000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png"group-title="",Telecolor HD PE
+https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://dcom-prod.imgix.net/files/logos/ANIMAL-PLANET-Logo-white_0.png"group-title="",Animal Planet HD
+http://190.92.25.115:8000/play/a0ah
+#EXTINF:-1 tvg-logo="https://www.nationalgeographicla.com/images/logo.png"",National Geographic
+http://190.108.83.142:8000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"group-title="",HBO PLUS
+http://190.83.119.254:8000/play/a0v1/index.m3u8
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/cinemax.png"group-title="",Start Life CINEMAX
+http://168.232.168.242:8089/play/a053/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png"group-title="",Start Channel
+http://190.83.119.254:8000/play/a0xk/index.m3u8
+#EXTINF:-1 tvg-logo="http://canal-i.com/wordpress/wp-content/uploads/2019/02/logo_v2-2.png"group-title="",Canli
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/elementor/thumbs/LOGO-pndpb9vr2ioypzkmtidn6exay62ljrs0tprryxf490.png"group-title="",Diosteve HD
+https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom-150x150.png"group-title="",Diosteve Kids
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://webtech-web-blu-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png"group-title="",PLUTO RETRO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://webtech-web-blu-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png"group-title="",PLUTO NARUTO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://webtech-web-blu-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png"group-title="",PLUTO ROMANCE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 CINE
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/38/74/22/387422a4-d5a4-7365-892c-eb8bbc57f592/App_Icon-marketing.lsr/600x600bb.jpg"group-title="",Planeta TV HD
+https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/sonynovelas-150x150.jpg"group-title="",SONY NOVELAS
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/COSMO_tv.png"group-title="",COSMO
@@ -137,11 +171,17 @@ https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist1080p.m3u8
 https://livefocamundo.com:8081/cdlcyerko/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZxJ6v5DgdMk/maxresdefault.jpg" group-title="COSTA RICA",HBTV Ticavision
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="MEXICO",Canal 26 COREA
+#EXTINF:-1 tvg-logo="https://redtal.tv/storage/3030/02_Logo-Canal-26_200x200.png"group-title="MEXICO",Canal 26 COREA
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/chunklist_w418996325.m3u8
 
 
 INFANTILES
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2014/07/new-disney-channel-logo.png"group-title="INFANTILES",Disney Channel
+http://168.232.168.242:8089/play/a04q/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Cartoon-Network-logo.jpg"group-title="",CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Cartoon-Network-logo.jpg"group-title="",CARTOON NETWORK2
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=268x10000:format=png/path/s5c68457729779a61/image/i3b6c6088b6994b5f/version/1638209355/image.png",EL CHAVO
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1582555768.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVrmhzniuVLyIDf7VSPC_thIhBFQFX86H8592_vKI2Kp-XAV0suUc3rotuLiz-3ZgrzGTgk3_xVVyRqVBNmj04DMWTbNiG6RWlRlr40iNICq7OKxs-5Bya_Fx6WhRSo76d7fmZctN48GkExiuOJqoZ9BHkcmiUd0z0LbIazv2oTuc9bsvsIK2Ulrj3Lg/s631/SEO KIDS TV.jpg" group-title="Canales Bolivianos",SEO TV KIDS HD
@@ -168,10 +208,6 @@ https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="",PLANETAKIDZ ES PLANETA JUNIOR TV
 https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Cartoon-Network-logo.jpg"group-title="",CARTOON NETWORK
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Cartoon-Network-logo.jpg"group-title="",CARTOON NETWORK2
-https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo=""group-title="",FIXY FOXI
 https://3b1f302803504be983edf67a415ccbc8.mediatailor.us-east-1.amazonaws.com/v1/manifest/89d8075d3a928921d573b23f45b98499b71505b2/BlimTV_LIVE_FIXANDFOXI_HLS/04114ab1-b716-4075-9272-bd02132b7cee/4.m3u8
 
@@ -201,14 +237,14 @@ https://dhx-teletubbies-1-gb.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7b0be1e3ddbc37ae133fd52e75a94fe0.webp",Retro Cartoon BR
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1586721001.m3u8
 
-#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="",NEO TV
+#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="",NEO TV HD
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/476_WOW_TV.png",WOW TV  | SV
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/476_WOW_TV.png",WOW TV SD | SV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.canalipe.tv/sites/default/themes/concise_drupal/static/media/header/canalipe.svg",ipe  PE
+#EXTINF:-1  tvg-logo="https://redtal.tv/storage/3262/IPe_2020_200x200.png",ipe  PE
 https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1  tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/gen-tv.png",GenTV
-https://videohd.live:19360/8010/8010.m3u8
+#EXTINF:-1  tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/gen-tv.png",GenTV HD
+https://inliveserver.com:1936/14056/14056/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/72_Holvoet_TV.png",Holvoet TV  | CL
 https://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?PlaylistM3UCL
 
